@@ -3,3 +3,8 @@ data
 *.train
 *.test
 *.txt
+*.bin
+*.vec
+*.ftz
+
+
